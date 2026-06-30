@@ -6,7 +6,7 @@
 /*   By: nfurst <nfurst@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/30 11:06:37 by nfurst            #+#    #+#             */
-/*   Updated: 2026/06/30 13:57:55 by nfurst           ###   ########.fr       */
+/*   Updated: 2026/06/30 14:37:31 by nfurst           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int	ft_iterative_power(int nb, int power)
 	res = 1;
 	if (power < 0)
 		return (0);
-	if (nb == 0 && power == 0)
+	if (power == 0)
 		return (1);
 	while (i < power)
 	{

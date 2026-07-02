@@ -6,7 +6,7 @@
 /*   By: nfurst <nfurst@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/01 15:32:28 by nfurst            #+#    #+#             */
-/*   Updated: 2026/07/01 15:32:28 by nfurst           ###   ########.fr       */
+/*   Updated: 2026/07/02 12:07:32 by nfurst           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,9 +26,9 @@ int	ft_is_prime(int nb)
 	return (1);
 }
 
-int ft_find_next_prime(int nb)
+int	ft_find_next_prime(int nb)
 {
-    while (!ft_is_prime(nb))
-        nb++;
-    return (nb);
+	while (!ft_is_prime(nb))
+		nb++;
+	return (nb);
 }

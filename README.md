@@ -2,7 +2,7 @@
 
 42 Piscine C05 exercises.
 
-This repository contains my solutions for the C05 project from the 42 Piscine.  
+This repository contains my solutions for the C05 project completed during the 42 Piscine.  
 The project focuses on recursion, factorials, powers, Fibonacci numbers, square roots, prime numbers, and basic algorithmic thinking in C.
 
 ## Exercises
@@ -58,12 +58,14 @@ cc -Wall -Wextra -Werror ex00/ft_iterative_factorial.c
 ```
 
 For testing, a temporary `main` function can be added locally.  
-Before submitting to 42, testing `main` functions and unnecessary includes should be removed.
+Before submitting to 42, test `main` functions and remove unnecessary includes.
 
 ## Notes
 
-This repository is part of my 42 Piscine preparation.  
+This repository is part of my work during the 42 Piscine.  
 The goal of C05 is to become more comfortable with recursion, mathematical functions, and efficient problem-solving in C.
+
+Testing `main` functions and unnecessary includes should be removed before submitting to 42.
 
 ## Author
 

@@ -1,9 +1,9 @@
-# piscineC05
+# piscineC02
 
-42 Piscine C05 exercises.
+42 Piscine C02 exercises.
 
-This repository contains my solutions for the C05 project completed during the 42 Piscine.  
-The project focuses on recursion, factorials, powers, Fibonacci numbers, square roots, prime numbers, and basic algorithmic thinking in C.
+This repository contains my solutions for the C02 project completed during the 42 Piscine.  
+The project focuses on string manipulation, string checks, character case conversion, and basic memory display functions in C.
 
 ## Exercises
 
@@ -63,7 +63,7 @@ Before submitting to 42, test `main` functions and remove unnecessary includes.
 ## Notes
 
 This repository is part of my work during the 42 Piscine.  
-The goal of C05 is to become more comfortable with recursion, mathematical functions, and efficient problem-solving in C.
+The goal of C02 is to become comfortable working with strings, character validation, and basic text transformation in C without relying on standard library functions.
 
 Testing `main` functions and unnecessary includes should be removed before submitting to 42.
 
